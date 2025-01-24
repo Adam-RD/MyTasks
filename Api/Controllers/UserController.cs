@@ -1,4 +1,5 @@
-﻿using Api.Models;
+﻿using Api.DTOs;
+using Api.Models;
 using Api.Repositories.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -32,11 +33,25 @@ namespace Api.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> AddUser(User user)
+        public async Task<IActionResult> AddUser([FromBody] UserDto userDto)
         {
+            
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            
+            var user = new User
+            {
+                Name = userDto.Name,
+                Email = userDto.Email,
+                PasswordHash = BCrypt.Net.BCrypt.HashPassword(userDto.Password) 
+            };
+
             await _userRepository.AddUserAsync(user);
+
             return CreatedAtAction(nameof(GetUserById), new { id = user.Id }, user);
         }
+
 
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateUser(int id, User user)

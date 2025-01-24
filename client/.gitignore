@@ -28,14 +28,24 @@ yarn-error.log
 !.vscode/extensions.json
 .history/*
 
+# Visual Studio
+.vs/  # Ignorar configuración de Visual Studio
+
 # Miscellaneous
 /.angular/cache
 .sass-cache/
-/connect.lock
+.connect.lock
 /coverage
 /libpeerconnection.log
 testem.log
 /typings
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Logs and debugging
+*.log
 
 # System files
 .DS_Store

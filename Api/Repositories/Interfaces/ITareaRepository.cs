@@ -10,5 +10,6 @@ namespace Api.Repositories.Interfaces
         Task AddTaskAsync(Tarea task);
         Task UpdateTaskAsync(Tarea task);
         Task DeleteTaskAsync(int id);
+        Task<bool> UserExistsAsync(int userId);
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace Api.Models
+﻿using System.Text.Json.Serialization;
+
+namespace Api.Models
 {
     public class Tarea
     {
@@ -9,6 +11,8 @@
         public string Status { get; set; }  = string.Empty;
         public DateTime DueDate { get; set; }
         public int UserId { get; set; }
-        public required User User { get; set; }
+
+        [JsonIgnore]
+        public User? User { get; set; }
     }
 }

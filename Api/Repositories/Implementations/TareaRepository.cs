@@ -14,6 +14,11 @@ namespace Api.Repositories.Implementations
             _context = context;
         }
 
+        public async Task<bool> UserExistsAsync(int userId)
+        {
+            return await _context.Users.AnyAsync(u => u.Id == userId);
+        }
+
         public async Task<IEnumerable<Tarea>> GetAllTasksAsync()
         {
             return await _context.Tareas.Include(t => t.User).ToListAsync();

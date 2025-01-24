@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\MyTask\\Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\controllers\\tereacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:controllers\\tereacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,36 +11,32 @@
       "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\repositories\\implementations\\tarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:repositories\\implementations\\tarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\repositories\\interfaces\\itarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:repositories\\interfaces\\itarearepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:repositories\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\tarearesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\tarearesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,8 +47,32 @@
       "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\tarearesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\tarearesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:repositories\\implementations\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\migrations\\20250123140310_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:migrations\\20250123140310_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|c:\\mytask\\api\\dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B23EE4F-E288-4467-94F7-7FD66CC69B48}|Api.csproj|solutionrelative:dtos\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,54 +90,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "Data\\DbInitializer.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwCkAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
+              "ToolTip": "C:\\MyTask\\Api\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:55:00.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T02:31:21.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TereaController.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Controllers\\TereaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TereaController.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Controllers\\TereaController.cs",
-              "RelativeToolTip": "Controllers\\TereaController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:51:35.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:49:51.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TareaRepository.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Repositories\\Implementations\\TareaRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\TareaRepository.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Repositories\\Implementations\\TareaRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\TareaRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:43:27.074Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\MyTask\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\MyTask\\Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T19:40:34.393Z",
               "EditorCaption": ""
             },
             {
@@ -140,61 +121,118 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\MyTask\\Api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwEMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T02:14:40.864Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\MyTask\\Api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\MyTask\\Api\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-23T02:17:44.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Repositories\\Implementations\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\UserRepository.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Repositories\\Implementations\\UserRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:43:02.538Z",
+              "WhenOpened": "2025-01-23T02:08:02.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAmwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:49:51.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TereaController.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Controllers\\TereaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TereaController.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Controllers\\TereaController.cs",
+              "RelativeToolTip": "Controllers\\TereaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:51:35.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ITareaRepository.cs",
               "DocumentMoniker": "C:\\MyTask\\Api\\Repositories\\Interfaces\\ITareaRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\ITareaRepository.cs",
               "ToolTip": "C:\\MyTask\\Api\\Repositories\\Interfaces\\ITareaRepository.cs",
               "RelativeToolTip": "Repositories\\Interfaces\\ITareaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:42:35.568Z",
+              "WhenOpened": "2025-01-23T19:25:07.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:39:27.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Repositories\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "TareaDto.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\TareaDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\TareaDto.cs",
+              "ToolTip": "C:\\MyTask\\Api\\DTOs\\TareaDto.cs",
+              "RelativeToolTip": "DTOs\\TareaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:42:06.176Z",
+              "WhenOpened": "2025-01-23T14:20:06.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TareaRepository.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Repositories\\Implementations\\TareaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\TareaRepository.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Repositories\\Implementations\\TareaRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\TareaRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:43:27.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\MyTask\\Api\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:40:10.656Z",
               "EditorCaption": ""
             },
             {
@@ -205,49 +243,21 @@
               "RelativeDocumentMoniker": "DTOs\\TareaResponseDto.cs",
               "ToolTip": "C:\\MyTask\\Api\\DTOs\\TareaResponseDto.cs",
               "RelativeToolTip": "DTOs\\TareaResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:35:02.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TareaDto.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\TareaDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\TareaDto.cs",
-              "ToolTip": "C:\\MyTask\\Api\\DTOs\\TareaDto.cs",
-              "RelativeToolTip": "DTOs\\TareaDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:33:24.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserResponseDto.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\UserResponseDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserResponseDto.cs",
-              "ToolTip": "C:\\MyTask\\Api\\DTOs\\UserResponseDto.cs",
-              "RelativeToolTip": "DTOs\\UserResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:32:16.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T18:46:41.312Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\UserDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\UserDto.cs",
-              "ToolTip": "C:\\MyTask\\Api\\DTOs\\UserDto.cs",
-              "RelativeToolTip": "DTOs\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:31:21.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T02:11:44.97Z"
             },
             {
               "$type": "Document",
@@ -257,44 +267,57 @@
               "RelativeDocumentMoniker": "Models\\Tarea.cs",
               "ToolTip": "C:\\MyTask\\Api\\Models\\Tarea.cs",
               "RelativeToolTip": "Models\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:08:35.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:11:44.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T02:08:35.987Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\MyTask\\Api\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\MyTask\\Api\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T02:08:02.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-23T02:55:00.003Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250123140310_InitialCreate.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Migrations\\20250123140310_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250123140310_InitialCreate.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Migrations\\20250123140310_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250123140310_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:03:12.175Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserResponseDto.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\DTOs\\UserResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserResponseDto.cs",
+              "ToolTip": "C:\\MyTask\\Api\\DTOs\\UserResponseDto.cs",
+              "RelativeToolTip": "DTOs\\UserResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:32:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\MyTask\\Api\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\UserRepository.cs",
+              "ToolTip": "C:\\MyTask\\Api\\Repositories\\Implementations\\UserRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\UserRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:08:31.83Z"
             }
           ]
         }
